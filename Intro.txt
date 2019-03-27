@@ -1,0 +1,4 @@
+In Edelweiss, for a new branch to be rolled out across PAN India, technical (network) feasibility study needs to be
+performed and on the basis of the reports of the feasibility study, cost and various other strategic parameters, business decides and
+finalizes the site address for rolling out the new branch.
+
