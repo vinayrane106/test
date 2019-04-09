@@ -1,0 +1,5264 @@
+[
+  {
+    "ID": 1,
+    "Name": "East",
+    "BRANCH_DESIGNED_SEATING": 252,
+    "SEATING_FROM_SPOCS": 210,
+    "DATA_FROM_HR_OPS": 165,
+    "Color": "#1763C6",
+    "FontColor": "#FFFFFF",
+    "ParentId": 0,
+    "Level": 0,
+    "ChildRow": [
+      {
+        "ID": 9,
+        "Name": "Chhattisgarh",
+        "BRANCH_DESIGNED_SEATING": 34,
+        "SEATING_FROM_SPOCS": 22,
+        "DATA_FROM_HR_OPS": 2,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 1,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 125,
+            "Name": "Raipur",
+            "BRANCH_DESIGNED_SEATING": 34,
+            "SEATING_FROM_SPOCS": 22,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 9,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 201,
+                "Name": "CHAW|U204|RAI|CT",
+                "BRANCH_DESIGNED_SEATING": 34,
+                "SEATING_FROM_SPOCS": 22,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 125,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 6,
+        "Name": "Assam",
+        "BRANCH_DESIGNED_SEATING": 5,
+        "SEATING_FROM_SPOCS": 5,
+        "DATA_FROM_HR_OPS": 1,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 1,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 66,
+            "Name": "Guwahati",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 1,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 6,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 216,
+                "Name": "FFOR|FL07|GUW|AS",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 1,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 66,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 7,
+        "Name": "Bihar",
+        "BRANCH_DESIGNED_SEATING": 5,
+        "SEATING_FROM_SPOCS": 3,
+        "DATA_FROM_HR_OPS": 0,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 1,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 117,
+            "Name": "Patna",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 7,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 231,
+                "Name": "HARI|N403|PAN|BR",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 117,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 15,
+        "Name": "Jharkhand",
+        "BRANCH_DESIGNED_SEATING": 20,
+        "SEATING_FROM_SPOCS": 20,
+        "DATA_FROM_HR_OPS": 10,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 1,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 128,
+            "Name": "Ranchi",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 10,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 15,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 260,
+                "Name": "MAHA|O806|RAN|JH",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 128,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 49,
+            "Name": "Bistupur",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 10,
+            "DATA_FROM_HR_OPS": 10,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 15,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 195,
+                "Name": "BHAD|NOB2|BIS|JH",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 10,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 49,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 20,
+        "Name": "Odisha",
+        "BRANCH_DESIGNED_SEATING": 35,
+        "SEATING_FROM_SPOCS": 32,
+        "DATA_FROM_HR_OPS": 15,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 1,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 46,
+            "Name": "Bhubaneshwar",
+            "BRANCH_DESIGNED_SEATING": 35,
+            "SEATING_FROM_SPOCS": 32,
+            "DATA_FROM_HR_OPS": 15,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 20,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 243,
+                "Name": "JANP|UN03|BHU|OR",
+                "BRANCH_DESIGNED_SEATING": 27,
+                "SEATING_FROM_SPOCS": 27,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 46,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 309,
+                "Name": "PA69|UN03|BHU|OR",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 46,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 28,
+        "Name": "West Bengal",
+        "BRANCH_DESIGNED_SEATING": 153,
+        "SEATING_FROM_SPOCS": 128,
+        "DATA_FROM_HR_OPS": 137,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 1,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 91,
+            "Name": "Kolkata",
+            "BRANCH_DESIGNED_SEATING": 153,
+            "SEATING_FROM_SPOCS": 128,
+            "DATA_FROM_HR_OPS": 137,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 28,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 202,
+                "Name": "CHIT|UN88|KOL|WB",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 10,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 91,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 302,
+                "Name": "NO44|FL09|KOL|WB",
+                "BRANCH_DESIGNED_SEATING": 46,
+                "SEATING_FROM_SPOCS": 35,
+                "DATA_FROM_HR_OPS": 37,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 91,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 263,
+                "Name": "MART|U227|KOL|WB",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 91,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 378,
+                "Name": "TRIN|UNF5|KOL|WB",
+                "BRANCH_DESIGNED_SEATING": 16,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 16,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 91,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 346,
+                "Name": "SAVI|NO2A|KOL|WB",
+                "BRANCH_DESIGNED_SEATING": 69,
+                "SEATING_FROM_SPOCS": 60,
+                "DATA_FROM_HR_OPS": 67,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 91,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      }
+    ],
+    "ShowChilds": "false"
+  },
+  {
+    "ID": 2,
+    "Name": "North",
+    "BRANCH_DESIGNED_SEATING": 707,
+    "SEATING_FROM_SPOCS": 610,
+    "DATA_FROM_HR_OPS": 385,
+    "Color": "#1763C6",
+    "FontColor": "#FFFFFF",
+    "ParentId": 0,
+    "Level": 0,
+    "ChildRow": [
+      {
+        "ID": 26,
+        "Name": "Uttar Pradesh",
+        "BRANCH_DESIGNED_SEATING": 15,
+        "SEATING_FROM_SPOCS": 15,
+        "DATA_FROM_HR_OPS": 8,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 84,
+            "Name": "Kanpur",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 26,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 339,
+                "Name": "SAIS|FL02|KAN|UP",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 84,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 96,
+            "Name": "Lucknow",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 7,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 26,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 344,
+                "Name": "SARA|C102|LUC|UP",
+                "BRANCH_DESIGNED_SEATING": 2,
+                "SEATING_FROM_SPOCS": 2,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 96,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 230,
+                "Name": "HALW|H106|LUC|UP",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 96,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 27,
+        "Name": "Uttarakhand",
+        "BRANCH_DESIGNED_SEATING": 25,
+        "SEATING_FROM_SPOCS": 24,
+        "DATA_FROM_HR_OPS": 15,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 130,
+            "Name": "Rishikesh",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 27,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 204,
+                "Name": "CITY|GRFL|RIS|UT",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 130,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 132,
+            "Name": "Roorkee",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 27,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 167,
+                "Name": "1040|FL01|ROO|UT",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 132,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 133,
+            "Name": "Rudrapur",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 27,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 349,
+                "Name": "SGAD|UND1|RUD|UT",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 133,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 67,
+            "Name": "Haridwar",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 27,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 187,
+                "Name": "ASHI|FL03|HAR|UT",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 67,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 57,
+            "Name": "Dehradun",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 27,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 388,
+                "Name": "VRIN|FL01|DEH|UT",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 57,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 22,
+        "Name": "Punjab",
+        "BRANCH_DESIGNED_SEATING": 73,
+        "SEATING_FROM_SPOCS": 73,
+        "DATA_FROM_HR_OPS": 10,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 116,
+            "Name": "Pathankot",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 1,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 22,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 317,
+                "Name": "PRAB|FL01|PAT|PB",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 1,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 116,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 135,
+            "Name": "Sangrur",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 22,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 282,
+                "Name": "MORE|FL01|SAN|PB",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 135,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 97,
+            "Name": "Ludhiana",
+            "BRANCH_DESIGNED_SEATING": 13,
+            "SEATING_FROM_SPOCS": 13,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 22,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 217,
+                "Name": "FORT|C604|LUD|PB",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 97,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 218,
+                "Name": "FORT|C607|LUD|PB",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 97,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 75,
+            "Name": "Jalandhar",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 22,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 180,
+                "Name": "AHUJ|SO49|JAL|PB",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 75,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 50,
+            "Name": "Chandigarh",
+            "BRANCH_DESIGNED_SEATING": 44,
+            "SEATING_FROM_SPOCS": 44,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 22,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 337,
+                "Name": "S149|FL02|CHA|PB",
+                "BRANCH_DESIGNED_SEATING": 44,
+                "SEATING_FROM_SPOCS": 44,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 50,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 40,
+            "Name": "Bhatinda",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 22,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 236,
+                "Name": "INGL|FL02|BHA|PB",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 40,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 23,
+        "Name": "Rajasthan",
+        "BRANCH_DESIGNED_SEATING": 153,
+        "SEATING_FROM_SPOCS": 86,
+        "DATA_FROM_HR_OPS": 19,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 31,
+            "Name": "Ajmer",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 235,
+                "Name": "INDI|FL02|AJM|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 31,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 199,
+                "Name": "CANA|FL02|AJM|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 31,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 48,
+            "Name": "Bikaner",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 386,
+                "Name": "VISH|FL02|BIK|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 48,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 42,
+            "Name": "Bhilwara",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 342,
+                "Name": "SAND|FL01|BHI|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 42,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 55,
+            "Name": "Dausa",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 168,
+                "Name": "1423|FL02|DAU|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 55,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 74,
+            "Name": "Jaipur",
+            "BRANCH_DESIGNED_SEATING": 116,
+            "SEATING_FROM_SPOCS": 49,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 229,
+                "Name": "GREE|N703|JAI|RJ",
+                "BRANCH_DESIGNED_SEATING": 58,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 74,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 221,
+                "Name": "GBUS|FL07|JAI|RJ",
+                "BRANCH_DESIGNED_SEATING": 58,
+                "SEATING_FROM_SPOCS": 40,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 74,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 92,
+            "Name": "Kota",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 171,
+                "Name": "2KH6|FL01|KOT|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 92,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 141,
+            "Name": "Sriganga Nagar",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 266,
+                "Name": "MAYA|NO41|SRI|RJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 141,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 154,
+            "Name": "Udaipur",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 9,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 23,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 287,
+                "Name": "N16C|FL03|UDA|RJ",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 154,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 8,
+        "Name": "Bihar",
+        "BRANCH_DESIGNED_SEATING": 10,
+        "SEATING_FROM_SPOCS": 10,
+        "DATA_FROM_HR_OPS": 0,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 118,
+            "Name": "Patna",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 10,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 8,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 254,
+                "Name": "KONA|FN03|PAN|BR",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 118,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 13,
+        "Name": "Haryana",
+        "BRANCH_DESIGNED_SEATING": 20,
+        "SEATING_FROM_SPOCS": 20,
+        "DATA_FROM_HR_OPS": 12,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 166,
+            "Name": "Yamuna Nagar",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 13,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 375,
+                "Name": "TILA|FL01|YAM|HR",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 166,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 95,
+            "Name": "Kurukshetra",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 13,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 347,
+                "Name": "SCO6|GRFL|KUR|HR",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 95,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 79,
+            "Name": "Kaithal",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 13,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 183,
+                "Name": "AMAR|FL02|KAI|HR",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 79,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 131,
+            "Name": "Rohtak",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 13,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 194,
+                "Name": "BANK|FL02|ROH|HR",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 131,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 113,
+            "Name": "Panipat",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 13,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 259,
+                "Name": "LMRH|FL02|PAN|HR",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 113,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 14,
+        "Name": "Himachal Pradesh",
+        "BRANCH_DESIGNED_SEATING": 12,
+        "SEATING_FROM_SPOCS": 12,
+        "DATA_FROM_HR_OPS": 8,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 137,
+            "Name": "Shimla",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 14,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 179,
+                "Name": "AGGA|FL03|SHI|HP",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 137,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 139,
+            "Name": "Solan",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 14,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 210,
+                "Name": "DANG|FL03|SOL|HP",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 139,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 99,
+            "Name": "Mandi",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 14,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 258,
+                "Name": "LEFT|FL01|MAN|HP",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 99,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 10,
+        "Name": "Delhi",
+        "BRANCH_DESIGNED_SEATING": 399,
+        "SEATING_FROM_SPOCS": 370,
+        "DATA_FROM_HR_OPS": 313,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 2,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 86,
+            "Name": "Karkardooma",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 10,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 330,
+                "Name": "RISH|N209|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 86,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 58,
+            "Name": "Delhi",
+            "BRANCH_DESIGNED_SEATING": 395,
+            "SEATING_FROM_SPOCS": 366,
+            "DATA_FROM_HR_OPS": 308,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 10,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 324,
+                "Name": "RAJE|NO3B|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 85,
+                "SEATING_FROM_SPOCS": 82,
+                "DATA_FROM_HR_OPS": 69,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 190,
+                "Name": "ATMA|NO8B|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 17,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 16,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 240,
+                "Name": "INTE|NOS3|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 33,
+                "SEATING_FROM_SPOCS": 33,
+                "DATA_FROM_HR_OPS": 18,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 296,
+                "Name": "NAUR|1016|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 22,
+                "SEATING_FROM_SPOCS": 20,
+                "DATA_FROM_HR_OPS": 24,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 272,
+                "Name": "MERC|F111|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 27,
+                "SEATING_FROM_SPOCS": 27,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 273,
+                "Name": "MERC|F202|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 15,
+                "SEATING_FROM_SPOCS": 15,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 274,
+                "Name": "MERC|F503|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 32,
+                "SEATING_FROM_SPOCS": 29,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 275,
+                "Name": "MERC|F512|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 14,
+                "SEATING_FROM_SPOCS": 14,
+                "DATA_FROM_HR_OPS": 29,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 276,
+                "Name": "MERC|F604|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 35,
+                "SEATING_FROM_SPOCS": 26,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 277,
+                "Name": "MERC|N103|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 38,
+                "SEATING_FROM_SPOCS": 38,
+                "DATA_FROM_HR_OPS": 1,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 278,
+                "Name": "MERC|N104|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 11,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 31,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 279,
+                "Name": "MERC|N109|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 16,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 280,
+                "Name": "MERC|N110|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 13,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 281,
+                "Name": "MERC|UGFL|DEL|DL",
+                "BRANCH_DESIGNED_SEATING": 37,
+                "SEATING_FROM_SPOCS": 35,
+                "DATA_FROM_HR_OPS": 114,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 58,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      }
+    ],
+    "ShowChilds": "false"
+  },
+  {
+    "ID": 3,
+    "Name": "South",
+    "BRANCH_DESIGNED_SEATING": 988,
+    "SEATING_FROM_SPOCS": 780,
+    "DATA_FROM_HR_OPS": 695,
+    "Color": "#1763C6",
+    "FontColor": "#FFFFFF",
+    "ParentId": 0,
+    "Level": 0,
+    "ChildRow": [
+      {
+        "ID": 5,
+        "Name": "Andhra Pradesh",
+        "BRANCH_DESIGNED_SEATING": 137,
+        "SEATING_FROM_SPOCS": 117,
+        "DATA_FROM_HR_OPS": 109,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 3,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 43,
+            "Name": "Bhimavaram",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 371,
+                "Name": "SURY|DN27|BHI|AP",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 43,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 60,
+            "Name": "Eluru",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 251,
+                "Name": "KGNS|NO25|ELU|AP",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 60,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 65,
+            "Name": "Guntur",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 9,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 220,
+                "Name": "GAYA|NO04|GUN|AP",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 65,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 80,
+            "Name": "Kakinada",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 178,
+                "Name": "5161|FL01|KAK|AP",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 80,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 94,
+            "Name": "Kurnool",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 9,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 376,
+                "Name": "TJSH|N19A|KUR|AP",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 9,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 94,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 108,
+            "Name": "Nellore",
+            "BRANCH_DESIGNED_SEATING": 14,
+            "SEATING_FROM_SPOCS": 10,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 362,
+                "Name": "SRIC|NO24|NEL|AP",
+                "BRANCH_DESIGNED_SEATING": 14,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 108,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 111,
+            "Name": "Ongole",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 2,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 186,
+                "Name": "ARNC|NO37|ONG|AP",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 2,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 111,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 126,
+            "Name": "Rajahmundry",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 9,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 177,
+                "Name": "46202|GRFL|RAJ|AP",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 9,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 126,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 149,
+            "Name": "Tirupati",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 7,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 298,
+                "Name": "NEWB|NO23|TIR|AP",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 149,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 161,
+            "Name": "Vijayawada",
+            "BRANCH_DESIGNED_SEATING": 26,
+            "SEATING_FROM_SPOCS": 25,
+            "DATA_FROM_HR_OPS": 22,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 192,
+                "Name": "AVRA|NO40|VIJ|AP",
+                "BRANCH_DESIGNED_SEATING": 26,
+                "SEATING_FROM_SPOCS": 25,
+                "DATA_FROM_HR_OPS": 22,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 161,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 163,
+            "Name": "Visakhapatnam",
+            "BRANCH_DESIGNED_SEATING": 33,
+            "SEATING_FROM_SPOCS": 29,
+            "DATA_FROM_HR_OPS": 26,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 291,
+                "Name": "N439|FL01|VIS|AP",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 163,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 292,
+                "Name": "N439|FL02|VIS|AP",
+                "BRANCH_DESIGNED_SEATING": 25,
+                "SEATING_FROM_SPOCS": 25,
+                "DATA_FROM_HR_OPS": 26,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 163,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 164,
+            "Name": "Vizianagaram",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 5,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 203,
+                "Name": "CITY|FL02|VIZ|AP",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 164,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 16,
+        "Name": "Karnataka",
+        "BRANCH_DESIGNED_SEATING": 290,
+        "SEATING_FROM_SPOCS": 234,
+        "DATA_FROM_HR_OPS": 184,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 3,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 70,
+            "Name": "Hubli",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 7,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 379,
+                "Name": "VAKA|FL02|HUB|KA",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 70,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 56,
+            "Name": "Davangere",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 316,
+                "Name": "PPSQ|FL01|DAV|KA",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 56,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 37,
+            "Name": "Bangalore",
+            "BRANCH_DESIGNED_SEATING": 206,
+            "SEATING_FROM_SPOCS": 164,
+            "DATA_FROM_HR_OPS": 117,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 176,
+                "Name": "42714|FL01|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 170,
+                "Name": "2CRO|NO25|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 301,
+                "Name": "NO25|FL01|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 319,
+                "Name": "PRES|U803|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 15,
+                "SEATING_FROM_SPOCS": 15,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 320,
+                "Name": "PRES|U912|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 12,
+                "DATA_FROM_HR_OPS": 14,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 305,
+                "Name": "NPRC|FL01|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 67,
+                "SEATING_FROM_SPOCS": 56,
+                "DATA_FROM_HR_OPS": 87,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 306,
+                "Name": "NPRC|FL02|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 43,
+                "SEATING_FROM_SPOCS": 38,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 307,
+                "Name": "ONYX|FL02|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 36,
+                "SEATING_FROM_SPOCS": 19,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 391,
+                "Name": "WORK|FL02|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 3,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 384,
+                "Name": "VIDY|N290|BAN|KA",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 37,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 38,
+            "Name": "Belgaum",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 284,
+                "Name": "MUJA|10632|BEL|KA",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 38,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 39,
+            "Name": "Bellary",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 358,
+                "Name": "SLVT|DN18|BEA|KA",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 39,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 124,
+            "Name": "Raichur",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 313,
+                "Name": "PARV|NO01|RAI|KA",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 124,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 138,
+            "Name": "Shimoga",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 264,
+                "Name": "MARU|FL03|SHI|KA",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 138,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 100,
+            "Name": "Mangaluru",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 215,
+                "Name": "ESSE|DN14|MAN|KA",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 100,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 103,
+            "Name": "Mysore",
+            "BRANCH_DESIGNED_SEATING": 22,
+            "SEATING_FROM_SPOCS": 16,
+            "DATA_FROM_HR_OPS": 16,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 244,
+                "Name": "JEEV|2917|MYS|KA",
+                "BRANCH_DESIGNED_SEATING": 22,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 16,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 103,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 89,
+            "Name": "Kolar",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 197,
+                "Name": "BLKS|FL01|KOL|KA",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 89,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 81,
+            "Name": "Kalaburagi",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 181,
+                "Name": "AKAS|FL03|KAL|KA",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 81,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 152,
+            "Name": "Tumkur",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 364,
+                "Name": "SRIS|U201|TUM|KA",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 152,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 160,
+            "Name": "Vijayapura",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 16,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 223,
+                "Name": "GIRI|FL02|VIJ|KA",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 160,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 17,
+        "Name": "Kerala",
+        "BRANCH_DESIGNED_SEATING": 24,
+        "SEATING_FROM_SPOCS": 13,
+        "DATA_FROM_HR_OPS": 11,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 3,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 61,
+            "Name": "Ernakulam",
+            "BRANCH_DESIGNED_SEATING": 2,
+            "SEATING_FROM_SPOCS": 2,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 17,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 267,
+                "Name": "MAYU|FL01|ERN|KL",
+                "BRANCH_DESIGNED_SEATING": 2,
+                "SEATING_FROM_SPOCS": 2,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 61,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 53,
+            "Name": "Cochin",
+            "BRANCH_DESIGNED_SEATING": 22,
+            "SEATING_FROM_SPOCS": 11,
+            "DATA_FROM_HR_OPS": 11,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 17,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 331,
+                "Name": "RKJT|FL03|COC|KL",
+                "BRANCH_DESIGNED_SEATING": 22,
+                "SEATING_FROM_SPOCS": 11,
+                "DATA_FROM_HR_OPS": 11,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 53,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 24,
+        "Name": "Tamil Nadu",
+        "BRANCH_DESIGNED_SEATING": 309,
+        "SEATING_FROM_SPOCS": 271,
+        "DATA_FROM_HR_OPS": 268,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 3,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 153,
+            "Name": "Tuticorin",
+            "BRANCH_DESIGNED_SEATING": 6,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 288,
+                "Name": "N17B|FL01|TUT|TN",
+                "BRANCH_DESIGNED_SEATING": 6,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 153,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 159,
+            "Name": "Vellore",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 232,
+                "Name": "HARI|N620|VEL|TN",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 159,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 150,
+            "Name": "Tiruppur",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 213,
+                "Name": "DHAN|NO01|TIP|TN",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 150,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 151,
+            "Name": "Trichy",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 348,
+                "Name": "SELV|NC87|TRI|TN",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 151,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 145,
+            "Name": "Thanjavur",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 193,
+                "Name": "BALU|1653|THA|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 145,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 146,
+            "Name": "Thiruvallur",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 7,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 268,
+                "Name": "MEEN|D169|CHN|TN",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 146,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 147,
+            "Name": "Thiruvannamalai",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 335,
+                "Name": "RRTO|NO15|THI|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 147,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 148,
+            "Name": "Tirunelveli",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 368,
+                "Name": "SUND|NO26|TIU|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 148,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 134,
+            "Name": "Salem",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 323,
+                "Name": "RAJA|DN01|SAL|TN",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 134,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 119,
+            "Name": "Perambalur",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 363,
+                "Name": "SRID|NO71|PER|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 119,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 120,
+            "Name": "Pollachi",
+            "BRANCH_DESIGNED_SEATING": 3,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 326,
+                "Name": "RAJU|NO06|POL|TN",
+                "BRANCH_DESIGNED_SEATING": 3,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 120,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 122,
+            "Name": "Pudukottai",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 341,
+                "Name": "SAKT|5469|PUD|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 122,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 93,
+            "Name": "Kumbakonam",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 303,
+                "Name": "NO49|FL01|KUM|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 93,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 87,
+            "Name": "Karur",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 205,
+                "Name": "D32A|FL01|KAR|TN",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 87,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 83,
+            "Name": "Kanchipuram",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 2,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 300,
+                "Name": "NO22|FL01|KAN|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 2,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 83,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 98,
+            "Name": "Madurai",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 16,
+            "DATA_FROM_HR_OPS": 14,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 191,
+                "Name": "ATPT|NO27|MAD|TN",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 14,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 98,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 105,
+            "Name": "Namakkal",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 312,
+                "Name": "PARA|NO86|NAM|TN",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 105,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 62,
+            "Name": "Erode",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 286,
+                "Name": "N141|FL02|ERO|TN",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 62,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 59,
+            "Name": "Dindigul",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 383,
+                "Name": "VGSC|NO10|DIN|TN",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 59,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 69,
+            "Name": "Hosur",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 361,
+                "Name": "SRIB|FL01|HOS|TN",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 69,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 54,
+            "Name": "Coimbatore",
+            "BRANCH_DESIGNED_SEATING": 32,
+            "SEATING_FROM_SPOCS": 35,
+            "DATA_FROM_HR_OPS": 35,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 289,
+                "Name": "N229|FL03|COI|TN",
+                "BRANCH_DESIGNED_SEATING": 32,
+                "SEATING_FROM_SPOCS": 35,
+                "DATA_FROM_HR_OPS": 35,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 54,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 51,
+            "Name": "Chengalpattu",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 228,
+                "Name": "GPRC|N187|CHE|TN",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 51,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 52,
+            "Name": "Chennai",
+            "BRANCH_DESIGNED_SEATING": 152,
+            "SEATING_FROM_SPOCS": 123,
+            "DATA_FROM_HR_OPS": 125,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 252,
+                "Name": "KOCH|NO19|CHN|TN",
+                "BRANCH_DESIGNED_SEATING": 124,
+                "SEATING_FROM_SPOCS": 106,
+                "DATA_FROM_HR_OPS": 109,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 52,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 360,
+                "Name": "SPEN|D715|CHN|TN",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 10,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 52,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 299,
+                "Name": "NO02|GRFL|CHN|TN",
+                "BRANCH_DESIGNED_SEATING": 11,
+                "SEATING_FROM_SPOCS": 11,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 52,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 380,
+                "Name": "VAST|N68A|CHN|TN",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 52,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 32,
+            "Name": "Ambattur",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 24,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 290,
+                "Name": "N432|FL01|CHN|TN",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 32,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 25,
+        "Name": "Telangana",
+        "BRANCH_DESIGNED_SEATING": 223,
+        "SEATING_FROM_SPOCS": 137,
+        "DATA_FROM_HR_OPS": 115,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 3,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 71,
+            "Name": "Hyderabad",
+            "BRANCH_DESIGNED_SEATING": 188,
+            "SEATING_FROM_SPOCS": 111,
+            "DATA_FROM_HR_OPS": 88,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 25,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 355,
+                "Name": "SHRE|R309|HYD|TG",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 71,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 318,
+                "Name": "PRAS|HN09|HYD|TG",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 71,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 333,
+                "Name": "ROXA|O103|HYD|TG",
+                "BRANCH_DESIGNED_SEATING": 118,
+                "SEATING_FROM_SPOCS": 95,
+                "DATA_FROM_HR_OPS": 83,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 71,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 334,
+                "Name": "ROXA|O203|HYD|TG",
+                "BRANCH_DESIGNED_SEATING": 45,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 71,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 169,
+                "Name": "2132|O303|HYD|TG",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 71,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 212,
+                "Name": "DEGA|D303|HYD|TG",
+                "BRANCH_DESIGNED_SEATING": 6,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 71,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 85,
+            "Name": "Karimnagar",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 25,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 261,
+                "Name": "MAHE|NO08|KAR|TG",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 85,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 109,
+            "Name": "Nizamabad",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 25,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 304,
+                "Name": "NO56|FL02|NIZ|TG",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 109,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 88,
+            "Name": "Khammam",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 25,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 382,
+                "Name": "VENK|SN08|KHA|TG",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 88,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 165,
+            "Name": "Warangal",
+            "BRANCH_DESIGNED_SEATING": 15,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 15,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 25,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 256,
+                "Name": "KSRS|FL02|WAR|TG",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 165,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 249,
+                "Name": "KAND|SF13|WAR|TG",
+                "BRANCH_DESIGNED_SEATING": 6,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 11,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 165,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 21,
+        "Name": "Pondicherry",
+        "BRANCH_DESIGNED_SEATING": 5,
+        "SEATING_FROM_SPOCS": 8,
+        "DATA_FROM_HR_OPS": 8,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 3,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 121,
+            "Name": "Puducherry",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 21,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 262,
+                "Name": "MARA|N303|PON|TN",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 121,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      }
+    ],
+    "ShowChilds": "false"
+  },
+  {
+    "ID": 4,
+    "Name": "West",
+    "BRANCH_DESIGNED_SEATING": 2686,
+    "SEATING_FROM_SPOCS": 1791,
+    "DATA_FROM_HR_OPS": 1620,
+    "Color": "#1763C6",
+    "FontColor": "#FFFFFF",
+    "ParentId": 0,
+    "Level": 0,
+    "ChildRow": [
+      {
+        "ID": 18,
+        "Name": "Madhya Pradesh",
+        "BRANCH_DESIGNED_SEATING": 70,
+        "SEATING_FROM_SPOCS": 54,
+        "DATA_FROM_HR_OPS": 43,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 4,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 45,
+            "Name": "Bhopal",
+            "BRANCH_DESIGNED_SEATING": 14,
+            "SEATING_FROM_SPOCS": 14,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 18,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 182,
+                "Name": "ALAN|FL02|BHO|MP",
+                "BRANCH_DESIGNED_SEATING": 14,
+                "SEATING_FROM_SPOCS": 14,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 45,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 72,
+            "Name": "Indore",
+            "BRANCH_DESIGNED_SEATING": 43,
+            "SEATING_FROM_SPOCS": 33,
+            "DATA_FROM_HR_OPS": 36,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 18,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 214,
+                "Name": "DMTO|O208|IND|MP",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 72,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 269,
+                "Name": "MEGA|303A|IND|MP",
+                "BRANCH_DESIGNED_SEATING": 15,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 72,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 270,
+                "Name": "MEGA|U107|IND|MP",
+                "BRANCH_DESIGNED_SEATING": 19,
+                "SEATING_FROM_SPOCS": 19,
+                "DATA_FROM_HR_OPS": 28,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 72,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 73,
+            "Name": "Jabalpur",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 0,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 18,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 392,
+                "Name": "WRIG|O201|JAB|MP",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 73,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 129,
+            "Name": "Ratlam",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 4,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 18,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 196,
+                "Name": "BHAG|O214|RAT|MP",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 129,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 155,
+            "Name": "Ujjain",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 18,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 227,
+                "Name": "GOPA|O204|UJJ|MP",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 155,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 19,
+        "Name": "Maharashtra",
+        "BRANCH_DESIGNED_SEATING": 2097,
+        "SEATING_FROM_SPOCS": 1391,
+        "DATA_FROM_HR_OPS": 1255,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 4,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 158,
+            "Name": "Vasai",
+            "BRANCH_DESIGNED_SEATING": 13,
+            "SEATING_FROM_SPOCS": 10,
+            "DATA_FROM_HR_OPS": 11,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 234,
+                "Name": "HIRA|N102|VAS|MH",
+                "BRANCH_DESIGNED_SEATING": 13,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 11,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 158,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 162,
+            "Name": "Virar",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 285,
+                "Name": "MUKE|O103|VIR|MH",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 162,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 123,
+            "Name": "Pune",
+            "BRANCH_DESIGNED_SEATING": 190,
+            "SEATING_FROM_SPOCS": 140,
+            "DATA_FROM_HR_OPS": 125,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 369,
+                "Name": "SUNI|O402|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 370,
+                "Name": "SUNI|O802|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 20,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 9,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 327,
+                "Name": "RAMA|O615|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 18,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 11,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 321,
+                "Name": "PRID|N603|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 14,
+                "DATA_FROM_HR_OPS": 16,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 310,
+                "Name": "PALL|O201|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 250,
+                "Name": "KGBU|O201|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 245,
+                "Name": "KAKA|O208|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 105,
+                "SEATING_FROM_SPOCS": 75,
+                "DATA_FROM_HR_OPS": 65,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 184,
+                "Name": "AMAR|U606|PUN|MH",
+                "BRANCH_DESIGNED_SEATING": 20,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 11,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 123,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 115,
+            "Name": "Panvel",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 10,
+            "DATA_FROM_HR_OPS": 1,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 297,
+                "Name": "NEEL|A205|PAN|MH",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 1,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 115,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 136,
+            "Name": "Satara",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 3,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 345,
+                "Name": "SATA|SF31|SAT|MH",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 136,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 140,
+            "Name": "Solapur",
+            "BRANCH_DESIGNED_SEATING": 17,
+            "SEATING_FROM_SPOCS": 9,
+            "DATA_FROM_HR_OPS": 10,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 247,
+                "Name": "KANA|FL01|SOL|MH",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 140,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 353,
+                "Name": "SHRA|ON08|SOL|MH",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 140,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 144,
+            "Name": "Thane",
+            "BRANCH_DESIGNED_SEATING": 4,
+            "SEATING_FROM_SPOCS": 4,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 311,
+                "Name": "PANN|N703|THA|MH",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 144,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 76,
+            "Name": "Jalgaon",
+            "BRANCH_DESIGNED_SEATING": 14,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 377,
+                "Name": "TRAD|FL02|JAL|MH",
+                "BRANCH_DESIGNED_SEATING": 14,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 76,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 82,
+            "Name": "Kalyan",
+            "BRANCH_DESIGNED_SEATING": 15,
+            "SEATING_FROM_SPOCS": 15,
+            "DATA_FROM_HR_OPS": 25,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 328,
+                "Name": "RAMK|O102|KAL|MH",
+                "BRANCH_DESIGNED_SEATING": 15,
+                "SEATING_FROM_SPOCS": 15,
+                "DATA_FROM_HR_OPS": 25,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 82,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 90,
+            "Name": "Kolhapur",
+            "BRANCH_DESIGNED_SEATING": 24,
+            "SEATING_FROM_SPOCS": 16,
+            "DATA_FROM_HR_OPS": 13,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 219,
+                "Name": "GALA|ON02|KOL|MH",
+                "BRANCH_DESIGNED_SEATING": 24,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 13,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 90,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 104,
+            "Name": "Nagpur",
+            "BRANCH_DESIGNED_SEATING": 40,
+            "SEATING_FROM_SPOCS": 40,
+            "DATA_FROM_HR_OPS": 45,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 225,
+                "Name": "GLAS|O404|NAG|MH",
+                "BRANCH_DESIGNED_SEATING": 40,
+                "SEATING_FROM_SPOCS": 40,
+                "DATA_FROM_HR_OPS": 45,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 104,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 106,
+            "Name": "Nashik",
+            "BRANCH_DESIGNED_SEATING": 29,
+            "SEATING_FROM_SPOCS": 26,
+            "DATA_FROM_HR_OPS": 25,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 336,
+                "Name": "RSQU|SN05|NAS|MH",
+                "BRANCH_DESIGNED_SEATING": 17,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 15,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 106,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 350,
+                "Name": "SGKU|N500|NAS|MH",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 10,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 106,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 107,
+            "Name": "Navi Mumbai",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 233,
+                "Name": "HAWA|1206|NAV|MH",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 107,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 102,
+            "Name": "Mumbai",
+            "BRANCH_DESIGNED_SEATING": 1670,
+            "SEATING_FROM_SPOCS": 1059,
+            "DATA_FROM_HR_OPS": 924,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 314,
+                "Name": "PJTO|O103|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 322,
+                "Name": "RAHE|FL01|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 140,
+                "SEATING_FROM_SPOCS": 112,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 340,
+                "Name": "SAKH|UN32|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 30,
+                "SEATING_FROM_SPOCS": 14,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 381,
+                "Name": "VASU|UN21|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 61,
+                "SEATING_FROM_SPOCS": 57,
+                "DATA_FROM_HR_OPS": 29,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 387,
+                "Name": "VRAJ|SN02|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 389,
+                "Name": "WIND|U504|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 112,
+                "SEATING_FROM_SPOCS": 112,
+                "DATA_FROM_HR_OPS": 18,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 390,
+                "Name": "WIND|U801|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 200,
+                "SEATING_FROM_SPOCS": 195,
+                "DATA_FROM_HR_OPS": 233,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 189,
+                "Name": "ATLA|O211|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 198,
+                "Name": "BOST|O101|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 110,
+                "SEATING_FROM_SPOCS": 101,
+                "DATA_FROM_HR_OPS": 98,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 200,
+                "Name": "CENT|UN1A|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 75,
+                "SEATING_FROM_SPOCS": 44,
+                "DATA_FROM_HR_OPS": 56,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 206,
+                "Name": "DAN2|FL01|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 159,
+                "SEATING_FROM_SPOCS": 159,
+                "DATA_FROM_HR_OPS": 127,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 207,
+                "Name": "DAN5|GRFL|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 61,
+                "SEATING_FROM_SPOCS": 57,
+                "DATA_FROM_HR_OPS": 42,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 208,
+                "Name": "DAN6|GRFL|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 17,
+                "SEATING_FROM_SPOCS": 14,
+                "DATA_FROM_HR_OPS": 13,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 209,
+                "Name": "DAN8|FL01|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 41,
+                "SEATING_FROM_SPOCS": 37,
+                "DATA_FROM_HR_OPS": 24,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 185,
+                "Name": "ARAR|UNG1|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 11,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 253,
+                "Name": "KOHI|U314|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 58,
+                "SEATING_FROM_SPOCS": 37,
+                "DATA_FROM_HR_OPS": 57,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 248,
+                "Name": "KANA|O505|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 17,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 226,
+                "Name": "GODR|1201|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 108,
+                "SEATING_FROM_SPOCS": 102,
+                "DATA_FROM_HR_OPS": 107,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 293,
+                "Name": "NAPH|FL03|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 143,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 294,
+                "Name": "NAPH|FL04|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 131,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 295,
+                "Name": "NAPH|FL05|MUM|MH",
+                "BRANCH_DESIGNED_SEATING": 169,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 93,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 102,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 44,
+            "Name": "Bhiwandi",
+            "BRANCH_DESIGNED_SEATING": 5,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 359,
+                "Name": "SOMS|S105|BHI|MH",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 44,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 36,
+            "Name": "Aurangabad",
+            "BRANCH_DESIGNED_SEATING": 26,
+            "SEATING_FROM_SPOCS": 24,
+            "DATA_FROM_HR_OPS": 30,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 356,
+                "Name": "SIDD|N100|AUR|MH",
+                "BRANCH_DESIGNED_SEATING": 11,
+                "SEATING_FROM_SPOCS": 11,
+                "DATA_FROM_HR_OPS": 14,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 36,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 211,
+                "Name": "DECE|ON04|AUR|MH",
+                "BRANCH_DESIGNED_SEATING": 15,
+                "SEATING_FROM_SPOCS": 13,
+                "DATA_FROM_HR_OPS": 16,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 36,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 33,
+            "Name": "Amravati",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 9,
+            "DATA_FROM_HR_OPS": 12,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 385,
+                "Name": "VIMA|NOC2|AMR|MH",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 12,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 33,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 30,
+            "Name": "Ahmednagar",
+            "BRANCH_DESIGNED_SEATING": 10,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 19,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 246,
+                "Name": "KALI|O201|AHM|MH",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 30,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 11,
+        "Name": "Goa",
+        "BRANCH_DESIGNED_SEATING": 8,
+        "SEATING_FROM_SPOCS": 0,
+        "DATA_FROM_HR_OPS": 0,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 4,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 114,
+            "Name": "Panjim",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 0,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 11,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 222,
+                "Name": "GERA|N501|PAN|GA",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 114,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      },
+      {
+        "ID": 12,
+        "Name": "Gujarat",
+        "BRANCH_DESIGNED_SEATING": 511,
+        "SEATING_FROM_SPOCS": 346,
+        "DATA_FROM_HR_OPS": 322,
+        "Color": "#68B4FB",
+        "FontColor": "#000000",
+        "ParentId": 4,
+        "Level": 1,
+        "ChildRow": [
+          {
+            "ID": 112,
+            "Name": "Palanpur",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 7,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 351,
+                "Name": "SHIL|FL03|PAL|GJ",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 112,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 127,
+            "Name": "Rajkot",
+            "BRANCH_DESIGNED_SEATING": 42,
+            "SEATING_FROM_SPOCS": 42,
+            "DATA_FROM_HR_OPS": 37,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 372,
+                "Name": "SURY|N301|RAJ|GJ",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 10,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 127,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 365,
+                "Name": "STAR|O601|RAJ|GJ",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 15,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 127,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 352,
+                "Name": "SHIV|FL03|RAJ|GJ",
+                "BRANCH_DESIGNED_SEATING": 24,
+                "SEATING_FROM_SPOCS": 24,
+                "DATA_FROM_HR_OPS": 19,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 127,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 142,
+            "Name": "Surat",
+            "BRANCH_DESIGNED_SEATING": 153,
+            "SEATING_FROM_SPOCS": 64,
+            "DATA_FROM_HR_OPS": 56,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 241,
+                "Name": "INTE|O422|SUR|GJ",
+                "BRANCH_DESIGNED_SEATING": 21,
+                "SEATING_FROM_SPOCS": 19,
+                "DATA_FROM_HR_OPS": 34,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 142,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 242,
+                "Name": "INTE|ON16|SUR|GJ",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 142,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 237,
+                "Name": "INTE |C406|SUR|GJ",
+                "BRANCH_DESIGNED_SEATING": 15,
+                "SEATING_FROM_SPOCS": 15,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 142,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 238,
+                "Name": "INTE|B501|SUR|GJ",
+                "BRANCH_DESIGNED_SEATING": 85,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 142,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 239,
+                "Name": "INTE|N312|SUR|GJ",
+                "BRANCH_DESIGNED_SEATING": 19,
+                "SEATING_FROM_SPOCS": 17,
+                "DATA_FROM_HR_OPS": 19,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 142,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 329,
+                "Name": "RISE|O401|SUR|GJ",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 142,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 143,
+            "Name": "Surendranagar",
+            "BRANCH_DESIGNED_SEATING": 12,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 271,
+                "Name": "MEGA|U210|SUE|GJ",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 143,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 77,
+            "Name": "Jamnagar",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 9,
+            "DATA_FROM_HR_OPS": 8,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 257,
+                "Name": "LALB|O401|JAM|GJ",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 77,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 78,
+            "Name": "Junagadh",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 8,
+            "DATA_FROM_HR_OPS": 9,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 283,
+                "Name": "MOTI|FL02|JUN|GJ",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 8,
+                "DATA_FROM_HR_OPS": 9,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 78,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 110,
+            "Name": "Odhav",
+            "BRANCH_DESIGNED_SEATING": 6,
+            "SEATING_FROM_SPOCS": 2,
+            "DATA_FROM_HR_OPS": 1,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 366,
+                "Name": "SUME|228C|ODH|GJ",
+                "BRANCH_DESIGNED_SEATING": 6,
+                "SEATING_FROM_SPOCS": 2,
+                "DATA_FROM_HR_OPS": 1,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 110,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 101,
+            "Name": "Mehsana",
+            "BRANCH_DESIGNED_SEATING": 19,
+            "SEATING_FROM_SPOCS": 17,
+            "DATA_FROM_HR_OPS": 16,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 338,
+                "Name": "SAFA|SN09|MEH|GJ",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 101,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 325,
+                "Name": "RAJK|FL02|MEH|GJ",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 101,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 308,
+                "Name": "ORBI|ON08|MEH|GJ",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 101,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 63,
+            "Name": "Gandhidham",
+            "BRANCH_DESIGNED_SEATING": 13,
+            "SEATING_FROM_SPOCS": 5,
+            "DATA_FROM_HR_OPS": 5,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 315,
+                "Name": "PLOT|FL01|GAN|GJ",
+                "BRANCH_DESIGNED_SEATING": 13,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 5,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 63,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 64,
+            "Name": "Gandhinagar",
+            "BRANCH_DESIGNED_SEATING": 14,
+            "SEATING_FROM_SPOCS": 13,
+            "DATA_FROM_HR_OPS": 11,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 357,
+                "Name": "SIGN|U204|GAD|GJ",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 8,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 64,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 373,
+                "Name": "SWAG|A316|GAD|GJ",
+                "BRANCH_DESIGNED_SEATING": 4,
+                "SEATING_FROM_SPOCS": 4,
+                "DATA_FROM_HR_OPS": 3,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 64,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 68,
+            "Name": "Himatnagar",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 7,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 367,
+                "Name": "SUNC|G205|HIM|GJ",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 68,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 34,
+            "Name": "Anand",
+            "BRANCH_DESIGNED_SEATING": 19,
+            "SEATING_FROM_SPOCS": 16,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 265,
+                "Name": "MARU|O107|ANA|GJ",
+                "BRANCH_DESIGNED_SEATING": 19,
+                "SEATING_FROM_SPOCS": 16,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 34,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 35,
+            "Name": "Ankleshwar",
+            "BRANCH_DESIGNED_SEATING": 7,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 6,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 332,
+                "Name": "ROSH|SN9A|ANK|GJ",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 35,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 41,
+            "Name": "Bhavnagar",
+            "BRANCH_DESIGNED_SEATING": 12,
+            "SEATING_FROM_SPOCS": 6,
+            "DATA_FROM_HR_OPS": 0,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 343,
+                "Name": "SAPP|O101|BHA|GJ",
+                "BRANCH_DESIGNED_SEATING": 12,
+                "SEATING_FROM_SPOCS": 6,
+                "DATA_FROM_HR_OPS": 0,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 41,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 47,
+            "Name": "Bhuj",
+            "BRANCH_DESIGNED_SEATING": 8,
+            "SEATING_FROM_SPOCS": 3,
+            "DATA_FROM_HR_OPS": 2,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 354,
+                "Name": "SHRE|FL01|BHU|GJ",
+                "BRANCH_DESIGNED_SEATING": 8,
+                "SEATING_FROM_SPOCS": 3,
+                "DATA_FROM_HR_OPS": 2,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 47,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 29,
+            "Name": "Ahmedabad",
+            "BRANCH_DESIGNED_SEATING": 137,
+            "SEATING_FROM_SPOCS": 104,
+            "DATA_FROM_HR_OPS": 116,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 172,
+                "Name": "3EYE|O301|AHM|GJ",
+                "BRANCH_DESIGNED_SEATING": 85,
+                "SEATING_FROM_SPOCS": 70,
+                "DATA_FROM_HR_OPS": 79,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 29,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 173,
+                "Name": "3EYE|O402|AHM|GJ",
+                "BRANCH_DESIGNED_SEATING": 21,
+                "SEATING_FROM_SPOCS": 17,
+                "DATA_FROM_HR_OPS": 4,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 29,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 174,
+                "Name": "3EYE|O503|AHM|GJ",
+                "BRANCH_DESIGNED_SEATING": 16,
+                "SEATING_FROM_SPOCS": 12,
+                "DATA_FROM_HR_OPS": 14,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 29,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 175,
+                "Name": "3EYE|U504|AHM|GJ",
+                "BRANCH_DESIGNED_SEATING": 5,
+                "SEATING_FROM_SPOCS": 5,
+                "DATA_FROM_HR_OPS": 13,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 29,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 374,
+                "Name": "TEN11|U404|AHM|GJ",
+                "BRANCH_DESIGNED_SEATING": 10,
+                "SEATING_FROM_SPOCS": 0,
+                "DATA_FROM_HR_OPS": 6,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 29,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 156,
+            "Name": "Vadodara",
+            "BRANCH_DESIGNED_SEATING": 29,
+            "SEATING_FROM_SPOCS": 21,
+            "DATA_FROM_HR_OPS": 24,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 255,
+                "Name": "KPPL|N605|VAD|GJ",
+                "BRANCH_DESIGNED_SEATING": 7,
+                "SEATING_FROM_SPOCS": 7,
+                "DATA_FROM_HR_OPS": 7,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 156,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              },
+              {
+                "ID": 188,
+                "Name": "ATLA|N201|VAD|GJ",
+                "BRANCH_DESIGNED_SEATING": 22,
+                "SEATING_FROM_SPOCS": 14,
+                "DATA_FROM_HR_OPS": 17,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 156,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          },
+          {
+            "ID": 157,
+            "Name": "Vapi",
+            "BRANCH_DESIGNED_SEATING": 9,
+            "SEATING_FROM_SPOCS": 9,
+            "DATA_FROM_HR_OPS": 9,
+            "Color": "#93C9FD",
+            "FontColor": "#000000",
+            "ParentId": 12,
+            "Level": 2,
+            "ChildRow": [
+              {
+                "ID": 224,
+                "Name": "GIRN|ON08|VAP|GJ",
+                "BRANCH_DESIGNED_SEATING": 9,
+                "SEATING_FROM_SPOCS": 9,
+                "DATA_FROM_HR_OPS": 9,
+                "Color": "#BDDEFE",
+                "FontColor": "#000000",
+                "ParentId": 157,
+                "Level": 3,
+                "ChildRow": [],
+                "ShowChilds": "false"
+              }
+            ],
+            "ShowChilds": "false"
+          }
+        ],
+        "ShowChilds": "false"
+      }
+    ],
+    "ShowChilds": "false"
+  }
+]
